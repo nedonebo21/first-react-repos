@@ -23,7 +23,7 @@ function App() {
                     rel="noopener noreferrer"
                 >
                     <div>
-                        <p>Learn React</p>
+                        <p>Dev branch commit 2</p>
                         <p>Learn React</p>
                         <p>Learn React</p>
                         <p>Learn React</p>
