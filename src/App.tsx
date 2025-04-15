@@ -11,6 +11,8 @@ function App() {
                     Edit <code>src/App.tsx</code> and save to reload.
                 </p>
                 <div>
+                    <h1>Fixed</h1>
+
                     <p>Lorem ipsum dolor.</p>
                     <p>Lorem ipsum dolor.</p>
                     <p>Lorem ipsum dolor.</p>
