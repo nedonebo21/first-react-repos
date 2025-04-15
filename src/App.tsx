@@ -25,7 +25,7 @@ function App() {
                     <div>
                         <p>Dev branch commit 2</p>
                         <p>Learn React</p>
-                        <p>Learn React</p>
+                        <p>Dev branch commit 3</p>
                         <p>Learn React</p>
                         <p>Dev branch commit 1</p>
                     </div>
